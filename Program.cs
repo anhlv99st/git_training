@@ -7,6 +7,7 @@ namespace Net.M.A007.Exercise1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello viet anh");
             DateTime inputDate;
             do
             {
@@ -65,5 +66,6 @@ namespace Net.M.A007.Exercise1
             }
         }
         #endregion
+       
     }
 }
