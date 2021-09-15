@@ -7,7 +7,8 @@ namespace Net.M.A007.Exercise1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello viet anh");
+            Console.WriteLine("Hello , toi là viet anh!");
+
             DateTime inputDate;
             do
             {
